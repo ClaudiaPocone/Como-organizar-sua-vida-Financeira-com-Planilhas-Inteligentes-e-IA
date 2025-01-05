@@ -4,63 +4,49 @@
     width="300"
 />
 
+</p>
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
 
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
+# Projeto Como Organizar Sua Vida Financeira com Planilhas e AI
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar dashboard a partir de um banco de dados para organização de finanças pessoais com uso de Planilhas e de IA. 
 
-<a href="https://github.com/ClaudiaPocone/ebook-curso-DIO/blob/main/e-book curso IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ClaudiaPocone/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/e1158de38ba2626bb80abe634a5edab36bd2f9eb/Projeto%20Organizando%20minha%20vida%20financeira%20(1).xlsx " title=" Projeto Organizando minha vida financeira (1).xlsx "> 📕Clique aqui para ler>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-Obs.: - [MidJourney](https://www.midjourney.com/app/ (não foi utilizado devido a não haver mais existência de uso gratuito)
+- [ChatGPT](https://chat.openai.com/) - capa
+- [Paint] - capa
+- [Excel] - planilha
 
 ## 🧠 Prompts
 
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie uma capa para um ebook sobre o tema de contratos públicos de obras realizados com recurso federais, recursos OGU, baseados nas Portarias 33/2023, 28/2024 e 29/2024 com prestação de contas.                                          |
-| conteúdo | Crie um ebook de 5 ou 6 páginas sobe as regras para contratação de contratos com recursos do OGU com base nas Portarias 33/2023, 28/2024 e 29/2024. O ebook deve ter introdução e conclusão. Na conclusão devem constar links de acesso às sites que contenham as Portarias. Caso mencione alguma plataforma no texto dos capítulos, cite o link de acesso ao site. Os capítulos devem ser bem detalhados de forma a elencar as principais diferenças entre as portarias, porém ser entrar em muitos detalhes técnicos.
-
-
-Midjourney：
-
-Não utilizado por não dispor de acesso gratuito
+|   Ação   | prompt |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  capa  | Você é um pintor. Crie uma imagem que mescle dinheiro e flores amarelas. As flores devem estar em um vaso apoiado em uma mesa onde haverá dinheiro e, ao fundo, deve haver um campo florido também com flores amarelas como margaridas. 
 
 ## ✨ Features
-
-- Conteúdo e imagem gerados via ChatGPT
+- Imagem gerada via Gemini
+- Finalização da capa gerada via Paint
+- Planilha gerada via Excle
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `main`
-- ebook gerado durante as aulas em `main`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+- Imagem utilizada em `Blob`
+- planilha gerada durante a aula em `Blob`
 
 ## 👨‍💻 Expert
 
