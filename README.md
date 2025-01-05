@@ -1,7 +1,8 @@
-# Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA
 <p align="center">
-    <img width="100" src=".github/Flores- Controle Financeiro.png">
-</p>
+<img 
+    src="https://github.com/ClaudiaPocone/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/a59952ad6085dd759afb959ec9a171ca92f7803b/Flores-%20Controle%20Financeiro.png"
+    width="300"
+/>
 
 
 
