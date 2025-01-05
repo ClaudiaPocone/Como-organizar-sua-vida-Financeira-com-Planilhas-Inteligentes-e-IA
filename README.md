@@ -19,7 +19,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar dashboard a partir de um banco de dados para organização de finanças pessoais com uso de Planilhas e de IA. 
+Projeto com o objetivo de gerar um dashboard a partir de um banco de dados para organização de finanças pessoais com uso de Planilhas e de IA. 
 
 <a href="https://github.com/ClaudiaPocone/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/e1158de38ba2626bb80abe634a5edab36bd2f9eb/Projeto%20Organizando%20minha%20vida%20financeira%20(1).xlsx " title=" Projeto Organizando minha vida financeira (1).xlsx "> 📕Clique aqui para ler>
 
