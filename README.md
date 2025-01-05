@@ -25,7 +25,7 @@ Projeto com o objetivo de gerar um dashboard a partir de um banco de dados para 
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - capa
+- [GEMINI] - capa
 - [Paint] - capa
 - [Excel] - planilha
 
