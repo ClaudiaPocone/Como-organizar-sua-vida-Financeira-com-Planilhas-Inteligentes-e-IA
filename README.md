@@ -40,7 +40,7 @@ ChatGPT：
 
 ## ✨ Features
 - Imagem gerada via Gemini
-- Finalização da capa gerada via Paint
+- Finalização da capa realizada via Paint
 - Planilha gerada via Excle
 
 ## 📚 Materiais
